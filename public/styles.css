@@ -6,9 +6,10 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background: linear-gradient(to right, pink, red); /* Pink to red gradient */
   }
+  
   #greeting {
-    color: #333;
+    color: #fff; /* White text for better contrast */
   }
   
